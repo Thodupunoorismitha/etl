@@ -1,0 +1,101 @@
+customer_id,customer_name,region,email
+C001,Vikram Prince,North,vikram.prince1@example.com
+C002,Yvonne Sharma,South,yvonne.sharma2@example.com
+C003,Henry Adams,North,henry.adams3@example.com
+C004,Wendy Iyer,North,wendy.iyer4@example.com
+C005,Tariq Das,North,tariq.das5@example.com
+C006,Alice Lee,South,alice.lee6@example.com
+C007,Henry Nair,Central,henry.nair7@example.com
+C008,Alice Iyer,South,alice.iyer8@example.com
+C009,Xavier Iyer,West,xavier.iyer9@example.com
+C010,Henry Chatterjee,Central,henry.chatterjee10@example.com
+C011,Ivy Johnson,South,ivy.johnson11@example.com
+C012,Xavier Das,East,xavier.das12@example.com
+C013,Ivy Adams,South,ivy.adams13@example.com
+C014,Zain Reddy,North,zain.reddy14@example.com
+C015,Charlie Khan,North,charlie.khan15@example.com
+C016,Leena Singh,Central,leena.singh16@example.com
+C017,Ivy Smith,West,ivy.smith17@example.com
+C018,Sana Prince,West,sana.prince18@example.com
+C019,Charlie Iyer,East,charlie.iyer19@example.com
+C020,Bhavna Joshi,East,bhavna.joshi20@example.com
+C021,Tariq Patel,North,tariq.patel21@example.com
+C022,Bob Kumar,East,bob.kumar22@example.com
+C023,Charlie Kumar,North,charlie.kumar23@example.com
+C024,Maya Sharma,West,maya.sharma24@example.com
+C025,Vikram Singh,South,vikram.singh25@example.com
+C026,Leena Singh 26,South,leena.singh26@example.com
+C027,Wendy Sharma,North,wendy.sharma27@example.com
+C028,Uma Miller,Central,uma.miller28@example.com
+C029,Yvonne Kumar,South,yvonne.kumar29@example.com
+C030,Olivia Khan,East,olivia.khan30@example.com
+C031,Esha Iyer,South,esha.iyer31@example.com
+C032,Wendy Reddy,North,wendy.reddy32@example.com
+C033,Henry Smith,East,henry.smith33@example.com
+C034,Maya Sharma 34,North,maya.sharma34@example.com
+C035,Grace Mehta,East,grace.mehta35@example.com
+C036,Grace Fernandes,West,grace.fernandes36@example.com
+C037,Devika Chatterjee,South,devika.chatterjee37@example.com
+C038,Ivy Adams 38,South,ivy.adams38@example.com
+C039,Yvonne Iyer,Central,yvonne.iyer39@example.com
+C040,Ivy Mehta,West,ivy.mehta40@example.com
+C041,Devika Mehta,West,devika.mehta41@example.com
+C042,Leena Kumar,South,leena.kumar42@example.com
+C043,Riya Fernandes,North,riya.fernandes43@example.com
+C044,Zain Smith,North,zain.smith44@example.com
+C045,Eve Miller,West,eve.miller45@example.com
+C046,Uma Lee,West,uma.lee46@example.com
+C047,Maya Joshi,West,maya.joshi47@example.com
+C048,Riya Sharma,Central,riya.sharma48@example.com
+C049,Chetan Johnson,North,chetan.johnson49@example.com
+C050,Wendy Iyer 50,East,wendy.iyer50@example.com
+C051,Zain Reddy 51,North,zain.reddy51@example.com
+C052,Jack Das,South,jack.das52@example.com
+C053,Olivia Johnson,East,olivia.johnson53@example.com
+C054,Riya Miller,Central,riya.miller54@example.com
+C055,Esha Prince,East,esha.prince55@example.com
+C056,Bhavna Nair,Central,bhavna.nair56@example.com
+C057,Grace Adams,East,grace.adams57@example.com
+C058,Zain Miller,Central,zain.miller58@example.com
+C059,Zain Nair,North,zain.nair59@example.com
+C060,Uma Reddy,West,uma.reddy60@example.com
+C061,Alice Prince,East,alice.prince61@example.com
+C062,Devika Gupta,South,devika.gupta62@example.com
+C063,Bob Kumar 63,Central,bob.kumar63@example.com
+C064,Charlie Lee,West,charlie.lee64@example.com
+C065,Bhavna Lee,Central,bhavna.lee65@example.com
+C066,Zain Adams,South,zain.adams66@example.com
+C067,Wendy Fernandes,Central,wendy.fernandes67@example.com
+C068,Frank Sharma,Central,frank.sharma68@example.com
+C069,Chetan Joshi,West,chetan.joshi69@example.com
+C070,Grace Iyer,South,grace.iyer70@example.com
+C071,Xavier Gupta,West,xavier.gupta71@example.com
+C072,Wendy Singh,West,wendy.singh72@example.com
+C073,Devika Nair,West,devika.nair73@example.com
+C074,Diana Kumar,South,diana.kumar74@example.com
+C075,Charlie Reddy,North,charlie.reddy75@example.com
+C076,Tariq Iyer,South,tariq.iyer76@example.com
+C077,Tariq Kumar,North,tariq.kumar77@example.com
+C078,Charlie Smith,South,charlie.smith78@example.com
+C079,Charlie Smith 79,East,charlie.smith79@example.com
+C080,Charlie Nair,South,charlie.nair80@example.com
+C081,Ivy Fernandes,South,ivy.fernandes81@example.com
+C082,Sana Adams,Central,sana.adams82@example.com
+C083,Tariq Fernandes,South,tariq.fernandes83@example.com
+C084,Arjun Fernandes,West,arjun.fernandes84@example.com
+C085,Grace Prince,North,grace.prince85@example.com
+C086,Wendy Das,East,wendy.das86@example.com
+C087,Nikhil Das,West,nikhil.das87@example.com
+C088,Chetan Smith,North,chetan.smith88@example.com
+C089,Bob Khan,East,bob.khan89@example.com
+C090,Arjun Prince,South,arjun.prince90@example.com
+C091,Grace Patel,Central,grace.patel91@example.com
+C092,Olivia Adams,West,olivia.adams92@example.com
+C093,Frank Sharma 93,West,frank.sharma93@example.com
+C094,Henry Lee,West,henry.lee94@example.com
+C095,Arjun Iyer,North,arjun.iyer95@example.com
+C096,Bob Iyer,North,bob.iyer96@example.com
+C097,Charlie Kumar 97,South,charlie.kumar97@example.com
+C098,Nikhil Fernandes,West,nikhil.fernandes98@example.com
+C099,Grace Khan,North,grace.khan99@example.com
+C100,Frank Khan,North,frank.khan100@example.com
